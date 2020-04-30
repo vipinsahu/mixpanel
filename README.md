@@ -75,7 +75,7 @@ $mp->track("button clicked", array("label"  =>  "sign-up"));
 ```
 
 ## Quick Start Example
-- To create a new subscription by running the below code or after successful installation you would able to access create new `profile` page by visiting the URL `http://localhost/mixpanel`
+- To create a new identity/profile and track event to that identity/profile by running the below code or after successful installation you would able to access create new `profile` page by visiting the URL `http://localhost/mixpanel`
 
 
 ## MixPanel Documentation
