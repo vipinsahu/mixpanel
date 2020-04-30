@@ -3,7 +3,7 @@
 require 'vendor/autoload.php';
 
 // get the Mixpanel class instance, replace with your project token
-$mp = Mixpanel::getInstance("5046154cc9a767d739e4cbc859e38c50");
+$mp = Mixpanel::getInstance("XXXXXX");
 
 // create/update a profile for user id 12345
 $current_distinct_id = 612345;
